@@ -1,0 +1,8 @@
+body {
+  background: gray;
+}
+
+.col-lg-4 {
+  border: solid black;
+  border-radius: 25px;
+}
